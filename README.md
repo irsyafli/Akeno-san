@@ -45,6 +45,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 ket : ✅ : aktif
 
-
+## Original script
+https://github.com/fdciabdul/termux-whatsapp-bot
 ## DONASI
 * Gopay : 089605961265 irsyafli
